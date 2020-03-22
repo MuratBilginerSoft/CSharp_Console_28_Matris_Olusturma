@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Matris Oluşturma\Kod S Matris Oluşturma\bin\Debug\Kod S Matris Oluşturma.exe
+C:\Users\mrt_b\Desktop\Kod S Matris Oluşturma\Kod S Matris Oluşturma\bin\Debug\Kod S Matris Oluşturma.pdb
+C:\Users\mrt_b\Desktop\Kod S Matris Oluşturma\Kod S Matris Oluşturma\obj\x86\Debug\Kod S Matris Oluşturma.exe
+C:\Users\mrt_b\Desktop\Kod S Matris Oluşturma\Kod S Matris Oluşturma\obj\x86\Debug\Kod S Matris Oluşturma.pdb
